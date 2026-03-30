@@ -1,0 +1,84 @@
+=====================================================================
+              STAY SAFE ONLINE — CHECKLIST
+=====================================================================
+
+
+ 1.  CREATE STRONG AND UNIQUE PASSWORDS
+---------------------------------------------------------------------
+     Use a combination of letters, numbers, and symbols for each
+     password. Do not use the same password for more than one
+     account.
+
+
+ 2.  ENABLE TWO-FACTOR AUTHENTICATION (2FA)
+---------------------------------------------------------------------
+     Activate 2FA on your email, banking, and social media accounts.
+     This adds a second layer of protection beyond just your
+     password.
+
+
+ 3.  DO NOT USE PUBLIC WI-FI FOR SENSITIVE TASKS
+---------------------------------------------------------------------
+     Avoid logging into banking or payment apps on public Wi-Fi
+     networks. Use your mobile data or a trusted private network
+     instead.
+
+
+ 4.  DO NOT CLICK ON SUSPICIOUS LINKS
+---------------------------------------------------------------------
+     If you receive an unexpected link via SMS, email, or WhatsApp,
+     do not click it. Always confirm the identity of the sender
+     before taking any action.
+
+
+ 5.  KEEP YOUR APPS AND DEVICES UP TO DATE
+---------------------------------------------------------------------
+     Install updates regularly. Updates contain important security
+     fixes that protect your device from known threats.
+
+
+ 6.  NEVER SHARE YOUR OTP OR PERSONAL DETAILS
+---------------------------------------------------------------------
+     No bank or payment app will ever ask for your OTP, PIN, or
+     password. If someone asks for these details, it is a scam.
+
+
+ 7.  ALWAYS VERIFY UPI PAYMENT REQUESTS
+---------------------------------------------------------------------
+     Before approving any UPI collect request, confirm the name of
+     the recipient. Fraudsters frequently send fake payment requests
+     to unsuspecting users.
+
+
+ 8.  ONLY SCAN QR CODES FROM TRUSTED SOURCES
+---------------------------------------------------------------------
+     Scanning a QR code can trigger a payment from your account.
+     Never scan a code sent by an unknown person or source.
+
+
+ 9.  LOG OUT AFTER USING SHARED DEVICES
+---------------------------------------------------------------------
+     If you access your accounts on a public or shared computer,
+     always log out completely when you are done.
+
+
+10.  DOWNLOAD APPS FROM OFFICIAL STORES ONLY
+---------------------------------------------------------------------
+     Only install applications from the Google Play Store or Apple
+     App Store to avoid downloading malware or fake apps.
+
+
+=====================================================================
+                  IN CASE OF ONLINE FRAUD
+=====================================================================
+
+  * Report immediately on the National Cyber Crime Portal:
+    https://cybercrime.gov.in
+
+  * Call the Cyber Crime Helpline: 1930 (available across India)
+
+---------------------------------------------------------------------
+  Following these steps will significantly reduce your risk and
+  help you stay safe while studying, socialising, and managing
+  finances online.
+=====================================================================
